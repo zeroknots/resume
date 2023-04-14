@@ -19,6 +19,20 @@ Some of my personal security audits, reviews and contributions will be shared he
 
 [sunless](https://github.com/zeroknots/sunless/) - Knowledge base management with git and obsidian
 
+
+### Dev Work
+
+[Rhinestone](https://www.rhinestone.wtf/) - Registry and Account Architecture for Account Abstraction ERC4337
+
+Payr - Web3  Invoicing tool with Permi2 (unreleased)
+
+[Provenance](https://provenance.so/) - SBT Membership Platform using ERC2535
+
+Sugoi - Carbon Credit Yield earning platform. Vaults: ERC4626
+
+
+
+
 ## [Past Work](https://github.com/zeroknots/resume#Work)
 
 ### CEO / Founder
@@ -58,12 +72,12 @@ Airbus subsidiary
 
 
 ## [Certifications and Trainings](https://github.com/zeroknots/resume#Certifications_and_trainings)
-[OSCP]()
+[OSCP](https://www.offsec.com/courses/pen-200/) - Offensive Security Certified Professional
 
-[OSCE]()
+[OSCE](https://www.offsec.com/ctp-osce/) - OffensiveSecurity Certified Expert
 
-[CoreLan Advanced Exploit Developer]()
+[CoreLan Advanced Exploit Developer](https://www.corelan-training.com/index.php/training/advanced/) - Windows Binary Exploitation
 
-[Advanced Fuzzing and Crash Analysis]()
+[Advanced Fuzzing and Crash Analysis](https://sectrain.hitb.org/courses/advanced-fuzzing-and-crash-analysis-hitb2022-ams-by-richard-johnson/) - Evolutionary Fuzzing / Binary Exploitation
 
 
