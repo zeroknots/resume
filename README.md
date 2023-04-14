@@ -4,20 +4,20 @@ Some of my personal security audits, reviews and contributions will be shared he
 
 ## [Audits](https://github.com/zeroknots/resume#Audits)
 
-[Y2K.finance](https://github.com/zeroknots/resume/audits/y2kfinance.md)
+[Y2K.finance](https://github.com/zeroknots/resume/blob/main/audits/y2kfinance.md)
 
-[UXD Protocol](https://github.com/zeroknots/resume/audits/UXDProtocol.md)
+[UXD Protocol](https://github.com/zeroknots/resume/blob/main/audits/UXDProtocol.md)
 
 +6 audits under NDA
 
 ## [Tools](https://github.com/zeroknots/resume#Tools)
-[SlotMachine]() - EVM storage slot security tests
+[SlotMachine](https://github.com/zeroknots/slotmachine) - EVM storage slot security tests
 
-[BrokenToken]() - Test DeFi protocols with weird ERC-20 tokens
+[BrokenToken](https://github.com/zeroknots/brokentoken) - Test DeFi protocols with weird ERC-20 tokens
 
-[Boilerplate.sol]() - Foundry Audit Boilerplate
+[Boilerplate.sol](https://github.com/zeroknots/boilerplate.sol) - Foundry Audit Boilerplate
 
-[sunless]() - Knowledge base management with git and obsidian
+[sunless](https://github.com/zeroknots/sunless/) - Knowledge base management with git and obsidian
 
 ## [Past Work](https://github.com/zeroknots/resume#Work)
 
